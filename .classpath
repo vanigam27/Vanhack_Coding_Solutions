@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/VARTIKA_NIGAM/Downloads/jar_files/base-1.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VARTIKA_NIGAM/Downloads/jar_files/checker-qual-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VARTIKA_NIGAM/Downloads/jar_files/elemental2-promise-1.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VARTIKA_NIGAM/Downloads/jar_files/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VARTIKA_NIGAM/Downloads/jar_files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VARTIKA_NIGAM/Downloads/jar_files/guava-29.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VARTIKA_NIGAM/Downloads/jar_files/guava-gwt-29.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VARTIKA_NIGAM/Downloads/jar_files/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VARTIKA_NIGAM/Downloads/jar_files/jsinterop-annotations-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VARTIKA_NIGAM/Downloads/jar_files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VARTIKA_NIGAM/Downloads/jar_files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
